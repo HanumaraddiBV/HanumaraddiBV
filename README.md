@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hanumaraddi Vaddatti</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Hanumaraddi Vaddatti</h1>
 
 ### I'm a **Full Stack Web Developer**. I am from Gadag, Karnataka and currently studying at [Masai School](https://www.masaischool.com/). I love to explore and learn new technologies. I always had a fondness for technology and coding. I started my journey with basic programming concepts of Java and then I learned JS, HTML, CSS, Express, React and many other web development technologies. I'm open to collaborate on interesting projects.
 
